@@ -23,4 +23,4 @@ Se você deseja contribuir para este projeto, sinta-se à vontade para abrir iss
 - [Lucas Vinicius de Almeida Brigida RM99094 ](https://github.com/lvininicius)
 - [Gabriel Riqueto RM98685 ](https:https://github.com/gabriel-riqueto)
 - LINK PARA O VIDEO DE APRESENTAÇÃO :
-- [LINK PARA O PROJETO NO WOKWI] (https://wokwi.com/projects/382247160044174337) 
+- [LINK PARA O PROJETO NO WOKWI ] (https://wokwi.com/projects/382247160044174337) 
