@@ -1,4 +1,4 @@
-# Projeto de Validação de Senha para Dependentes Químicos
+# Projeto de Validação de Senha para Hospitais e centros de acolhimento
 
 Este repositório contém o código-fonte para um projeto de validação de senha destinado a ser utilizado em hospitais ou centros de acolhimento para dependentes químicos. O código foi desenvolvido para um ESP32 e utiliza tecnologias como WiFi, MQTT, e um teclado 4x4 para inserção de senhas.
 
